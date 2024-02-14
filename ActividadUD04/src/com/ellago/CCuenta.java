@@ -14,8 +14,6 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
     
-asd
-
     //Constructores
     public CCuenta()
     {
